@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Eleicao {
+public class Ex6 {
     public static void main(String[] args) {
         Scanner e = new Scanner(System.in);
         int candidato1 = 0, candidato2 = 0, candidato3 = 0, candidato4 = 0;
@@ -31,3 +31,4 @@ public class Eleicao {
         e.close();
     }
 }
+
