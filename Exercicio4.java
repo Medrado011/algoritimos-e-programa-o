@@ -27,4 +27,8 @@ public class Exercicio4 {
         }
         e.close();
     }
+
+    if(10> charAt){
+        
+    }
 }
